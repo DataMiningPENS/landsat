@@ -1,52 +1,24 @@
-import matplotlib.pyplot as plt
-import numpy as np
-import json
-import cv2
-import time
-from scipy.spatial import distance
-from sklearn import cluster
+# import cv2
+from PIL import Image
 
-class Dot:
-    x = 0
-    y = 0
-    cluster = 0
-    def __init__(self,x,y,cluster):
-        self.x = x
-        self.y = y
-        self.cluster = cluster
-
-# 1. Ambil RGB
+im = Image.open('./static/uploads/gb2.GIF')
+im_rgb = im.convert('RGB')
+print(im_rgb.getpixel((0,0))[0])
+# pix = im.load()
+height, width = im.size
 img = []
-img.append(cv2.imread('img\gb1.jpg',0))
-img.append(cv2.imread('img\gb2.jpg',0))
-img.append(cv2.imread('img\gb3.jpg',0))
-img.append(cv2.imread('img\gb4.jpg',0))
-img.append(cv2.imread('img\gb5.jpg',0))
-img.append(cv2.imread('img\gb7.jpg',0))
+for i in range(height):
+    img.append([])
+    for j in range(width):
+        img[i].append(im_rgb.getpixel((i,j))[0])
+        # print(pix[i,j])
 
-gb = cv2.imread('img\gb1.jpg')
-height, width, channels = gb.shape
-# 2. Ubah gambar ke data pixel
-data = []
-for x in range(0,width) :
-    for y in range(0,height) :
-        # untuk masing - masing gambar
-        pxl = []
-        for ig in img :
-            pxl.append(ig[x][y])
-        data.append(pxl)
+print(img)
 
-timeA = int(round(time.time() * 1000))
-result = cluster.AgglomerativeClustering(n_clusters=5,linkage='complete').fit_predict(data)
+# gb = cv2.imread('./static/uploads/gb2.jpg')
+# height, width, channels = gb.shape
+# img = np.zeros(shape=(len(gambar),height,width,channels))
 
-newCluster = []
-for y in range(0,height):
-    for x in range(0,width):
-        index = x + (y*32)
-        newCluster.append(Dot(x,y,result[index]))
-        
-cc = 0
-for cc in newCluster:
-    print(cc.x,cc.y,cc.cluster)
-timeB = int(round(time.time() * 1000))
-print("Time :",(timeB-timeA)*1000," ms")
+# for i in range(0, len(gambar)):
+#     gb = cv2.imread('./img/'+gambar[i])
+#     img[i] = np.array(gb)

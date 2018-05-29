@@ -1,0 +1,13 @@
+input[type='file'] {
+    color: transparent;
+    width:100px !Important;
+}
+
+.box-image{
+    width : 100px;
+}
+
+#img-final{
+    width : 400px;
+    height: 400px;
+}

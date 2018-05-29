@@ -1,0 +1,94 @@
+
+<html>
+    <head>
+        <title>Multiband Image Clustering</title>
+        <script src="{{ url_for('static', filename = 'js/jquery-3.3.1.min.js') }}"></script>
+        <script src="{{ url_for('static', filename = 'js/custom.js') }}"></script>
+
+        <link href="{{ url_for('static', filename = 'css/style.css') }}" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <br>
+        <center><h1>Landsat Multiband Image Clustering</h1></center>
+        <br>
+        <table style="align : center; margin : 0px auto;">
+            <tr>
+                <td>
+                    <form id="upload-file-1" method="POST" enctype=multipart/form-data>
+                        Gambar 1<br><br>
+                        <input type="file" name="image" id="image-upload-1" onchange="uploadImage(1)"><br><br>
+                        <img id="image-1" src="/static/images/no-image.png" class="box-image">
+                    </form>
+                </td>
+                <td>
+                    <form id="upload-file-2" method="POST" enctype=multipart/form-data>
+                        Gambar 2<br><br>
+                        <input type="file" name="image" id="image-upload-2" onchange="uploadImage(2)"><br><br>
+                        <img id="image-2" src="/static/images/no-image.png" class="box-image">
+                    </form>
+                </td>
+                <td>
+                    <form id="upload-file-3" method="POST" enctype=multipart/form-data>
+                        Gambar 3<br><br>
+                        <input type="file" name="image" id="image-upload-3" onchange="uploadImage(3)"><br><br>
+                        <img id="image-3" src="/static/images/no-image.png" class="box-image">
+                    </form>
+                </td>
+                <td>
+                    <form id="upload-file-4" method="POST" enctype=multipart/form-data>
+                        Gambar 4<br><br>
+                        <input type="file" name="image" id="image-upload-4" onchange="uploadImage(4)"><br><br>
+                        <img id="image-4" src="/static/images/no-image.png" class="box-image">
+                    </form>
+                </td>
+                <td>
+                    <form id="upload-file-5" method="POST" enctype=multipart/form-data>
+                        Gambar 5<br><br>
+                        <input type="file" name="image" id="image-upload-5" onchange="uploadImage(5)"><br><br>
+                        <img id="image-5" src="/static/images/no-image.png" class="box-image">
+                    </form>
+                </td>
+                <td>
+                    <form id="upload-file-6" method="POST" enctype=multipart/form-data>
+                        Gambar 6<br><br>
+                        <input type="file" name="image" id="image-upload-6" onchange="uploadImage(6)"><br><br>
+                        <img id="image-6" src="/static/images/no-image.png" class="box-image">
+                    </form>
+                </td>    
+            </tr>
+        </table>
+
+        <form id="cluster-master" method="POST"  style="align : center; margin : 0px auto; width : 600px">
+            <table>
+                <tr>
+                    <td colspan=2>
+                        Masukkan jumlah cluster
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="num-cluster" id="num-cluster">
+                    </td>
+                    <td>
+                        <button id="cluster-button" type="button" onClick = "clusterImage()">Proses</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+
+        <table  style="align : center; margin : 0px auto;">
+            <tr>
+                <td>
+                    <img src="/static/images/no-image.png" id="image-final" class="image-final">
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>COLOR</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

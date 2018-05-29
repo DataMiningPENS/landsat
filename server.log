@@ -1,0 +1,2421 @@
+Exception on /upload/ [GET]
+Traceback (most recent call last):
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 38, in upload_file
+    return render_template('test.html')
+NameError: name 'render_template' is not defined
+Exception on /upload/ [GET]
+Traceback (most recent call last):
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 38, in upload_file
+    return render_template('test.html')
+NameError: name 'render_template' is not defined
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/uploads/Screenshot_from_2018-02-23_16-19-17.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/uploads/Screenshot_from_2018-03-02_06-14-58.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/uploads/muhammad_alfian.jpg
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/uploads/ss.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/uploads/Screenshot_from_2018-02-23_16-19-17.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/Screenshot_from_2018-02-23_16-19-21.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/Screenshot_from_2018-02-23_16-19-17.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/Screenshot_from_2018-02-23_16-19-17.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/Screenshot_from_2018-02-23_16-19-17.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/Screenshot_from_2018-02-23_16-19-17.png
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/multiband
+/media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/multiband/static/uploads/gb4.GIF
+Exception on /coba [GET]
+Traceback (most recent call last):
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 44, in coba1
+    ip.coba()
+AttributeError: module 'lib.ImageProcess' has no attribute 'coba'
+Exception on /coba [GET]
+Traceback (most recent call last):
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/media/hydra/EXPERIMENT/Python/web/venv/lib/python3.5/site-packages/flask/app.py", line 1725, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 42, in cluster_lib
+    gambar.append(request.form.get('image_'+i))
+TypeError: Can't convert 'int' object to str implicitly
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1725, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/Thumbs.db
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1725, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1725, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1725, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 42, in cluster_lib
+    gambar.append(request.form.post('image_'+str(i)))
+AttributeError: 'ImmutableMultiDict' object has no attribute 'post'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1725, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 44, in cluster_lib
+    img = ip.load_image(gambar)
+NameError: name 'gambar' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 44, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 9, in load_image
+    gb = cv2.imread('../static/uploads/'+gambar[0])
+NameError: name 'cv2' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 14, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 14, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 15, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 15, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 15, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 15, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 15, in load_image
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 51, in cluster_lib
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 51, in cluster_lib
+    height, width, channels = gb.shape
+AttributeError: 'NoneType' object has no attribute 'shape'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 13, in load_image
+    gb = Image.open('../static/uploads/'+gambar[0])
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2258, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '../static/uploads/gb1.GIF'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 19, in load_image
+    img[i] = [gb[i:i+width] for i  in range(0, len(gb), width)]
+TypeError: object of type 'GifImageFile' has no len()
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 19, in load_image
+    img[i] = [gb[i:i+width] for i  in range(0, height*width, width)]
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 19, in <listcomp>
+    img[i] = [gb[i:i+width] for i  in range(0, height*width, width)]
+TypeError: 'GifImageFile' object is not subscriptable
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 20, in load_image
+    img[i] = [pixels[i:i+width] for i  in range(0, len(pixels), width)]
+ValueError: could not broadcast input array from shape (32,32) into shape (32,32,1)
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 58, in cluster_lib
+    data, cluster = ip.convert_index(gambar, img)
+NameError: name 'gambar' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 47, in cluster_lib
+    data, cluster = ip.convert_index(image_name, img)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 37, in convert_index
+    px.append(img[z][x][y][0])
+IndexError: invalid index to scalar variable.
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 47, in cluster_lib
+    num_cluster = request.json['num_cluster']
+TypeError: 'NoneType' object is not subscriptable
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 47, in cluster_lib
+    num_cluster = request.get_json()['num_cluster ']
+TypeError: 'NoneType' object is not subscriptable
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 48, in cluster_lib
+    print(num_cluster)
+NameError: name 'num_cluster' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 18, in load_image
+    gb = Image.open('./static/uploads/'+gambar[i])
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2258, in open
+    fp = builtins.open(filename, "rb")
+IsADirectoryError: [Errno 21] Is a directory: './static/uploads/'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 18, in load_image
+    gb = Image.open('./static/uploads/'+gambar[i])
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2258, in open
+    fp = builtins.open(filename, "rb")
+IsADirectoryError: [Errno 21] Is a directory: './static/uploads/'
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    cluster = ip.clustering_lib(data, img, json['num_cluster'])
+TypeError: 'NoneType' object is not subscriptable
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    cluster = ip.clustering_lib(data, img, json['num_cluster'])
+TypeError: 'NoneType' object is not subscriptable
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    cluster = ip.clustering_lib(data, img, json)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 91, in clustering_lib
+    result = skcluster.AgglomerativeClustering(n_clusters=num_cluster,linkage='complete').fit_predict(data)
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/base.py", line 410, in fit_predict
+    self.fit(X)
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/cluster/hierarchical.py", line 699, in fit
+    if self.n_clusters <= 0:
+TypeError: unorderable types: str() <= int()
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 112, in generate_image
+    im.putpixel((images[i][0],images[i][1]), color[images[i][2]])
+NameError: name 'images' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/final.png
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 20, in load_image
+    img[i] = [pixels[i:i+width] for i  in range(0, len(pixels), width)]
+ValueError: setting an array element with a sequence.
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 20, in load_image
+    img[i] = [pixels[i:i+width] for i  in range(0, len(pixels), width)]
+ValueError: setting an array element with a sequence.
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 112, in generate_image
+    im.putpixel((cluster[i][0],cluster[i][1]), color[cluster[i][2]])
+IndexError: list index out of range
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img, json)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 107, in generate_image
+    for i in range(0, num_cluster):
+TypeError: 'str' object cannot be interpreted as an integer
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 108, in generate_image
+    color.append(random_color())
+NameError: name 'color' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 109, in generate_image
+    color.append(random_color())
+NameError: name 'random_color' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 110, in generate_image
+    temp = tuple(random.shuffle(rgbl))
+NameError: name 'random' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 111, in generate_image
+    temp = tuple(random.shuffle(rgbl))
+TypeError: 'NoneType' object is not iterable
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/Screenshot_from_2018-02-23_16-19-21.png
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 21, in load_image
+    img[i] = [pixels[i:i+width] for i  in range(0, len(pixels), width)]
+ValueError: setting an array element with a sequence.
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    final = ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 121, in generate_image
+    id = id_generator()
+NameError: name 'id_generator' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    final = ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 121, in generate_image
+    id = this.id_generator()
+NameError: name 'this' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 49, in cluster_lib
+    final = ip.generate_image(cluster, img, int(json))
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 122, in generate_image
+    id = ''.join(random.choice(chars) for _ in range(size))
+NameError: name 'size' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 24, in load_image
+    height, width = im.size
+NameError: name 'im' is not defined
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 27, in load_image
+    img[i][j] = pix[i,j]
+IndexError: index 6 is out of bounds for axis 0 with size 6
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+Exception on /cluster-lib [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 45, in cluster_lib
+    img = ip.load_image(image_name)
+  File "/media/hydra/EXPERIMENT/Python/web/landsat/lib/ImageProcess.py", line 26, in load_image
+    img[i][j] = pix[i,j]
+IndexError: index 6 is out of bounds for axis 0 with size 6
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb1.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb2.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb3.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb4.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb5.GIF
+/media/hydra/EXPERIMENT/Python/web/landsat
+/media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/
+saving /media/hydra/EXPERIMENT/Python/web/landsat/static/uploads/gb7.GIF
