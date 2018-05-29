@@ -1,17 +1,27 @@
+import matplotlib.pyplot as plt
 import numpy as np
+import json
 import cv2
 import time
 from scipy.spatial import distance
 
-# Load an color image in grayscale
+class Dot:
+    x = 0
+    y = 0
+    cluster = 0
+    def __init__(self,x,y,cluster):
+        self.x = x
+        self.y = y
+        self.cluster = cluster
+
 # 1. Ambil RGB
 img = []
 img.append(cv2.imread('img\gb1.jpg',0))
-# img.append(cv2.imread('img\gb2.jpg',0))
-# img.append(cv2.imread('img\gb3.jpg',0))
-# img.append(cv2.imread('img\gb4.jpg',0))
-# img.append(cv2.imread('img\gb5.jpg',0))
-# img.append(cv2.imread('img\gb7.jpg',0))
+img.append(cv2.imread('img\gb2.jpg',0))
+img.append(cv2.imread('img\gb3.jpg',0))
+img.append(cv2.imread('img\gb4.jpg',0))
+img.append(cv2.imread('img\gb5.jpg',0))
+img.append(cv2.imread('img\gb7.jpg',0))
 
 gb = cv2.imread('img\gb1.jpg')
 height, width, channels = gb.shape
@@ -19,8 +29,11 @@ height, width, channels = gb.shape
 data = []
 cluster = []
 ic=0
-for x in range(0,25) :
-    for y in range(0,25) :
+# TODO : Delete this width
+width = 10
+# TODO : change x range to width, and y to height
+for x in range(0,10) :
+    for y in range(0,10) :
         # untuk masing - masing gambar
         pxl = []
         for ig in img :
@@ -65,8 +78,16 @@ while len(cluster) > 5:
                 smallestTrg = farTrgIdx
     cluster[smallestSrc]=cluster[smallestSrc]+cluster[smallestTrg]
     del cluster[smallestTrg]
-print(cluster)
+# print(cluster)
+newCluster = []
+cc = 0
+for C in cluster:
+    for c in C:
+        x = c%width
+        y = int(c/width)
+        newCluster.append(Dot(x,y,cc))
+    cc = cc + 1
+for cc in newCluster:
+    print(cc.x,cc.y,cc.cluster)
 timeB = int(round(time.time() * 1000))
-print("Time :",(timeB-timeA)*1000," ms")                        
-                        
-
+print("Time :",(timeB-timeA)*1000," ms")
